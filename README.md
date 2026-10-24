@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**yoest/yoest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student in artificial intelligence at the **University of Mons** (Belgium), particularly interested in applying AI research to real-world problems. Alongside my academic work, I'm co-founder of **Estytech**, where we bring technical expertise to SMEs.
 
-Here are some ideas to get you started:
+## Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My PhD research focuses on fault detection and prediction using multimodal time series, with applications in robotic machining and industrial maintenance. In particular, I'm working on real-time identification of common faults such as chatter, tool wear and tool breakage in robotic milling.
+
+## Estytech
+
+Estytech is a company specialising in software development, AI and automation. We support SMEs and freelancers across Wallonia and beyond.
+
+## Get in touch
+
+I enjoy working at the intersection of research and industry, and I'm always happy to talk with people interested in AI applications or research–industry collaboration. If any of these topics interest you (or if you want to learn more about Estytech), don't hesitate to reach out!
+
+[Linkedin](https://www.linkedin.com/in/yorickestievenart/) · [Website](https://estytech.com/)
+
+Interests: AI in business / Machine learning / Data-driven decision making / Predictive maintenance / Research-to-industry transfer / Software development
