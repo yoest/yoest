@@ -1,14 +1,10 @@
 # Hi there 👋
 
-I'm a PhD student in artificial intelligence at the **University of Mons** (Belgium), particularly interested in applying AI research to real-world problems. Alongside my academic work, I'm co-founder of **Estytech**, where we bring technical expertise to SMEs.
-
-## Research
+I'm a PhD student in artificial intelligence at the University of Mons (Belgium), particularly interested in applying AI research to real-world problems. Alongside my academic work, I'm co-founder of Estytech, where we bring technical expertise to SMEs.
 
 My PhD research focuses on fault detection and prediction using multimodal time series, with applications in robotic machining and industrial maintenance. In particular, I'm working on real-time identification of common faults such as chatter, tool wear and tool breakage in robotic milling.
 
-## Estytech
-
-Estytech is a company specialising in software development, AI and automation. We support SMEs and freelancers across Wallonia and beyond.
+At the same time, I co-founded Estytech, a company specialising in software development, ai and automation. We support SMEs and freelancers across Wallonia and beyond.
 
 ## Get in touch
 
